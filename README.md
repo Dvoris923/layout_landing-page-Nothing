@@ -58,7 +58,7 @@ To install the project and run it locally, follow these steps:
 After starting the project, it will be available at `http://localhost:8080`. You can use this project to showcase product information and interact with various UI elements.
 
 ## Example
-* 🔗 [**DEMO LINK**](https://dvoris923.github.io/layout_landing-page-Nothing/)
+* 🔗 [**DEMO LINK**](https://dvoris923.github.io/layout_landing-page-Nothing/)(https://dvoris923.github.io/layout_landing-page-Nothing/)
 
 ---
 
